@@ -8,6 +8,8 @@
 
 import UIKit
 
+
+//Scaling segue 
 class ScaleSegue: UIStoryboardSegue {
     
     override func perform()  {
@@ -39,7 +41,7 @@ class ScaleSegue: UIStoryboardSegue {
 
 }
 
-
+// Fade in segue 
 class FadeInSegue: UIStoryboardSegue {
     
     override func perform()  {
