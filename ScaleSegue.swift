@@ -1,9 +1,7 @@
 //
 //  ScaleSegue.swift
-//  MrCanvas
 //
-//  Created by Mayank Singh on 15/03/19.
-//  Copyright © 2019 Kumar. All rights reserved.
+//  Created by Pushpank on 15/03/19.
 //
 
 import UIKit
